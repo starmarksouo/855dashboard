@@ -1,0 +1,4 @@
+240511083515225405,ERROR:  invalid byte sequence for encoding "UTF8": 0xb5
+
+240511083515226289,CONTEXT:  COPY accident112, line 1
+

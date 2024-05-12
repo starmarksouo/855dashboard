@@ -1,0 +1,4 @@
+240511042302242799,ERROR:  invalid input syntax for type integer: "   type: FeatureCollection"
+
+240511042302243821,CONTEXT:  COPY accident112, line 2, column 發生年度: "   type: FeatureCollection"
+

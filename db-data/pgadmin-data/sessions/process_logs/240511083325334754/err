@@ -1,0 +1,4 @@
+240511083326816548,ERROR:  extra data after last expected column
+
+240511083326817640,CONTEXT:  COPY accident112, line 2: "112,0,2,大安區,雨,交岔路,交岔路口,無缺陷,34,未飲酒,121.5530417,25.0379661"
+

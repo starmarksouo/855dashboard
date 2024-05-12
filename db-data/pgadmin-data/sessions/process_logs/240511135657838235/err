@@ -1,0 +1,4 @@
+240511135659626189,ERROR:  invalid input syntax for type integer: "18-23晚上"
+
+240511135659637918,CONTEXT:  COPY accident112, line 2, column 發生年度: "18-23晚上"
+
